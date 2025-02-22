@@ -27,8 +27,8 @@ A simple command-line-based **To-Do List Application** built using **Node.js** a
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Harshitj-2005/todo-cli.git
-cd todo-cli
+git clone https://github.com/Harshitj-2005/CLI-todo-app.git
+cd CLI-todo-app
 ```
 
 ### 3️⃣ Run the Application
